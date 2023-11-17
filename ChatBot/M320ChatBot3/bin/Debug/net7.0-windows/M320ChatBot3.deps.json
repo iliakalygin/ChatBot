@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "M320ChatBot3/1.0.0": {
+        "runtime": {
+          "M320ChatBot3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M320ChatBot3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
