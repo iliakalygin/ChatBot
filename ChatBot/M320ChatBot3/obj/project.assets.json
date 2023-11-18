@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ilia Kalygin\\Desktop\\ChatBot\\M320ChatBot3\\M320ChatBot3.csproj",
+      "projectUniqueName": "C:\\Users\\Ilia Kalygin\\Source\\Repos\\ChatBot\\ChatBot\\M320ChatBot3\\M320ChatBot3.csproj",
       "projectName": "M320ChatBot3",
-      "projectPath": "C:\\Users\\Ilia Kalygin\\Desktop\\ChatBot\\M320ChatBot3\\M320ChatBot3.csproj",
+      "projectPath": "C:\\Users\\Ilia Kalygin\\Source\\Repos\\ChatBot\\ChatBot\\M320ChatBot3\\M320ChatBot3.csproj",
       "packagesPath": "C:\\Users\\Ilia Kalygin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ilia Kalygin\\Desktop\\ChatBot\\M320ChatBot3\\obj\\",
+      "outputPath": "C:\\Users\\Ilia Kalygin\\Source\\Repos\\ChatBot\\ChatBot\\M320ChatBot3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ilia Kalygin\\AppData\\Roaming\\NuGet\\NuGet.Config",
