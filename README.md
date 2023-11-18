@@ -15,5 +15,4 @@ To get started with the ChatBot project:
 3. Launch the ChatBot.
 4. In the ```responses.txt``` file you will find all of the keywords the ChatBot can work with.
 
-
 ![ChatBot Image](img/ChatBot.png)
