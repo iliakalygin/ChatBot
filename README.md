@@ -13,6 +13,6 @@ To get started with the ChatBot project:
 1. Clone the repository into Visual Studio 2022 or download as .zip
 2. Open the .sln solution in Visual Studio Code 2022 (if not directly cloned)
 3. Launch the ChatBot.
-4. In the ```responses.txt``` file you will find all of the keywords ChatBot can work with.
+4. In the ```responses.txt``` file you will find all of the keywords the ChatBot can work with.
 
 
