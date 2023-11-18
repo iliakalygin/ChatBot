@@ -1,0 +1,79 @@
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.exe
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.deps.json
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.runtimeconfig.json
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.dll
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.pdb
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.csproj.AssemblyReference.cache
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3_MarkupCompile.cache
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.g.resources
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.AssemblyInfoInputs.cache
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.AssemblyInfo.cs
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.csproj.CoreCompileInputs.cache
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.dll
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\refint\M320ChatBot3.dll
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.pdb
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.genruntimeconfig.cache
+C:\Users\Ilia Kalygin\Desktop\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\ref\M320ChatBot3.dll
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.exe
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.deps.json
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.runtimeconfig.json
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.dll
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.pdb
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3_MarkupCompile.cache
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.g.resources
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.AssemblyInfoInputs.cache
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.AssemblyInfo.cs
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.csproj.CoreCompileInputs.cache
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.dll
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\refint\M320ChatBot3.dll
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.pdb
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.genruntimeconfig.cache
+C:\Users\aimoa\source\repos\m320-chatBot\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\ref\M320ChatBot3.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.exe
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.deps.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.runtimeconfig.json
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.pdb
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.csproj.AssemblyReference.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3_MarkupCompile.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.g.resources
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.AssemblyInfoInputs.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.AssemblyInfo.cs
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.csproj.CoreCompileInputs.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\refint\M320ChatBot3.dll
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.pdb
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.genruntimeconfig.cache
+C:\Users\HansO\OneDrive - ipso! Bildung\Modul 320\Neuer Ordner\M320ChatBot3\M320ChatBot3\obj\Debug\net7.0-windows\ref\M320ChatBot3.dll
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.exe
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.deps.json
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.runtimeconfig.json
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.dll
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\bin\Debug\net7.0-windows\M320ChatBot3.pdb
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.csproj.AssemblyReference.cache
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3_MarkupCompile.cache
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.g.resources
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.AssemblyInfoInputs.cache
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.AssemblyInfo.cs
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.csproj.CoreCompileInputs.cache
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.dll
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\refint\M320ChatBot3.dll
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.pdb
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\M320ChatBot3.genruntimeconfig.cache
+C:\Users\Ilia Kalygin\Desktop\ChatBot\M320ChatBot3\obj\Debug\net7.0-windows\ref\M320ChatBot3.dll
