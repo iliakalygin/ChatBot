@@ -10,8 +10,8 @@ Welcome to the ChatBot project! This repository contains a custom-built chatbot 
 
 ## Getting Started
 To get started with the ChatBot project:
-1. Clone the repository.
-2. Open the .sln solution in Visual Studio Code 2022.
+1. Clone the repository into Visual Studio 2022 or download as .zip
+2. Open the .sln solution in Visual Studio Code 2022 (if not directly cloned)
 3. Launch the ChatBot and explore its features!
 
 
