@@ -16,3 +16,8 @@ To get started with the ChatBot project:
 4. In the ```responses.txt``` file you will find all of the keywords the ChatBot can work with.
 
 ![ChatBot Image](img/ChatBot.png)
+
+
+## UML
+![ChatBot Image](img/UML.png)
+
